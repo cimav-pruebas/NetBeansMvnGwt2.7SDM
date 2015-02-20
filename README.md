@@ -9,7 +9,7 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 <code>Any Name, Any WebServer, Java EE 7 Web</code>
 
 <ul>
-<li><code>I don´t use the Gwt4nb plugin because supports until Gwt 2.6 and don't use Maven</code></li>
+<li><code>I don´t use the Gwt4nb plugin because it supports until Gwt 2.6 and it doesn't use Maven</code></li>
 <li><code>For me, the stuff goes better with Maven/Wee App wizard plus Gwt Framework 
 instead to use directly the Gwt Maven Plugin artifact</code></li>
 </ul>
