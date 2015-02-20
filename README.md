@@ -45,12 +45,15 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 
 <code>Wait a moment and launch your browser from the GWT Development Mode window</code>
 
+<code>In your browser you will see: http://127.0.0.1:8888/welcomeGWT.html?gwt.codesvr=127.0.0.1:9997 </code>
+
 <h3>That is all</h3>
 <ul>
 <li><code>Add Breakpoints</code></li>
 <li><code>Make changes in the code and refresh to see the magic of the Incremental Compilation</code></li>
 <li><code>With System.out.println() you see the msgs in NetBeans' console</code></li>
 <li><code>With GWT.logs() you see the msgs in the GWT Development Mode </code></li>
+<li><strong>SuperDevMode: </strong><code>I prefer to debug in NetBeans. Change superDevMode to true in the action and in the POM file in order to active the SDM</code></li>
 <li><code>Open Developer Tools in Chrome to see the SDM magic</code></li>
 </ul>
 
@@ -61,8 +64,6 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 <li><code>For me, the stuff goes better with Maven/Wee App wizard plus Gwt Framework 
 instead to use directly the Gwt Maven Plugin artifact</code></li>
 </ul>
-
-
 
 
 
