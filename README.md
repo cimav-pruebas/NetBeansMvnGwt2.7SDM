@@ -8,6 +8,12 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 
 <code>Any Name, Any WebServer, Java EE 7 Web</code>
 
+<ul>
+<li><code>I don´t use the Gwt4nb plugin because supports until Gwt 2.6 and don't use Maven</code></li>
+<li><code>For me, the stuff goes better with Maven/Wee App wizard plus Gwt Framework 
+instead to use directly the Gwt Maven Plugin artifact</code></li>
+</ul>
+
 <h3>Add GWT Framework</h3>
 
 <code>Project > Properties > Frameworks > Add > Google Web Toolkit</code>
@@ -56,16 +62,4 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 <li><strong>SuperDevMode: </strong><code>I prefer to debug in NetBeans. Change superDevMode to true in the action and in the POM file in order to active the SDM</code></li>
 <li><code>Open Developer Tools in Chrome to see the SDM magic</code></li>
 </ul>
-
-
-<h3>Notes</h3>
-<ul>
-<li><code>I don´t use the Gwt4nb plugin because supports until Gwt 2.6 and don't use Maven</code></li>
-<li><code>For me, the stuff goes better with Maven/Wee App wizard plus Gwt Framework 
-instead to use directly the Gwt Maven Plugin artifact</code></li>
-</ul>
-
-
-
-
 
