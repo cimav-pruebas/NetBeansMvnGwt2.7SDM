@@ -1,6 +1,9 @@
 # NetBeansMvnGwt2.7SDM
 Set up: NetBeans + Maven + Gwt 2.7 + SDM
 
+<h3>Run NetBeans as Administrator</h3>
+
+<h3>Install the GWT Plugin</h3>
 
 <h3>Create New Project</h3>
 
@@ -63,3 +66,4 @@ instead to use directly the Gwt Maven Plugin artifact</code></li>
 <li><code>Open Developer Tools in Chrome to see the SDM magic</code></li>
 </ul>
 
+<h3>Check POM.XML</h3>
