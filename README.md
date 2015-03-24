@@ -3,7 +3,7 @@ Set up: NetBeans + Maven + Gwt 2.7 + SDM
 
 <h3>Run NetBeans as Administrator</h3>
 
-<h3>Install the GWT Plugin</h3>
+<h3>Install the GWT Plugin in your Browser (Chrome for me in Windows 8)</h3>
 
 <h3>Create New Project</h3>
 
