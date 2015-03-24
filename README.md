@@ -66,4 +66,4 @@ instead to use directly the Gwt Maven Plugin artifact</code></li>
 <li><code>Open Developer Tools in Chrome to see the SDM magic</code></li>
 </ul>
 
-<h3>Check POM.XML</h3>
+<h3>Don´t forget to check POM.XML</h3>
